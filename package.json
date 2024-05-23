@@ -18,5 +18,9 @@
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
     }
+  },
+  "dependencies": {
+    "router-js": "^3.9.1",
+    "server-js": "^0.1.4"
   }
 }
